@@ -1,5 +1,5 @@
 #!/bin/bash
-# Application URL to check
+# Application URL to check.
 APP_URL="https://github.com/nyrahul/wisecow"
 # Log file for storing the script output
 LOG_FILE="/var/log/app_health_checker.log"
