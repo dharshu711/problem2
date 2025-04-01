@@ -16,7 +16,7 @@ Step 2: Create and Edit the Script
  
 3. Insert the script content:
 #!/bin/bash
-# Define log file path
+# Define log file path.
 LOG_FILE="/var/log/system_health.log"
 # Thresholds
 CPU_THRESHOLD=80
